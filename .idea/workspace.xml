@@ -3,32 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78e0bf00-7f34-4c36-9a66-fcb8763c5160" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/applypatch-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/post-update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-applypatch.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-merge-commit.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-push.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-rebase.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/pre-receive.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/update.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/boardgame/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/boardgame/BoardException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/boardgame/Piece.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/boardgame/Position.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessPiece.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/ChessPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/pieces/King.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chess-system/chess/pieces/Rook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chess-system/application/UI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
